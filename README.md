@@ -1,7 +1,6 @@
 
  ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=I'mYeonwoo&fontSize=80)
 <div align="center">
-<h2>Profile</h2> <br />
 🧑🏻‍💻<strong>프론트엔드 개발(Since 2023.12.29)</strong>🧑🏻‍💻
 </div>
 <br/>
